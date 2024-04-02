@@ -1,5 +1,5 @@
 SELECT
-    TRIP.T_DEPART,
+    Trip.T_DEPART,
     ROUTE.ROU_DESC,
     TRIP.T_TRA_ID,
     TRAVELLER.TRA_NAME AS Traveller,
